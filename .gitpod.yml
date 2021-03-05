@@ -1,0 +1,4 @@
+tasks:
+- init: >
+    apt update
+    apt install openjdk-11-jre-headless
